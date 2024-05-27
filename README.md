@@ -78,13 +78,13 @@ To define architectures you should download Tensorflow library
 
 ## Results
 ### Generator outputs:
-![alt text](https://github.com/Ciapser/Mnist_Fashion_Gan/blob/master/Actual_Best_Result/Generator_results.png?raw=true)
+![alt text](https://github.com/Ciapser/Mnist_Fashion_Gan/blob/main/Actual_Best_Result/Generator_results.png?raw=true)
 
 ### Generator training:
-![alt text](https://github.com/Ciapser/Mnist_Fashion_Gan/blob/master/Actual_Best_Result/Training_history.gif?raw=true)
+![alt text](https://github.com/Ciapser/Mnist_Fashion_Gan/blob/main/Actual_Best_Result/Training_history.gif?raw=true)
 
 ### Outputs interpolation
 
-![alt text](https://github.com/Ciapser/Mnist_Fashion_Gan/blob/master/Actual_Best_Result/Model_interpolation.gif?raw=true)
+![alt text](https://github.com/Ciapser/Mnist_Fashion_Gan/blob/main/Actual_Best_Result/Model_interpolation.gif?raw=true)
 
 
