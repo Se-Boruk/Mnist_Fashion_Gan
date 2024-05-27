@@ -1,7 +1,7 @@
 
 
 
-Initial_params = dict(DataBase_directory = "E:\Bazy_Danych\MNIST_Data",
+Initial_params = dict(DataBase_directory = "E:\Bazy_Danych\MNIST_Fashion",
                       Kaggle_set = True,
                       Load_from_CSV = True,
                       Stratification_test = False,
@@ -25,10 +25,10 @@ Augment_params = dict(reduced_set_size = None,
 Model_parameters = dict(generator_architecture = "Test_generator_28",
                         discriminator_architecture = "Test_discriminator_28",
                         device = "GPU:0",
-                        train = True,
-                        epochs = 100,
+                        train = False,
+                        epochs = 200,
                         latent_dim = 100,
-                        batch_size = 128,
+                        batch_size = 256,
                         sample_interval = 1,
                         sample_number = 100,
                         evaluate = True,
