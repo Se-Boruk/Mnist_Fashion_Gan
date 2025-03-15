@@ -7,6 +7,5 @@ Models milestones and benchmark.xlsx
 __pycache__/*
 
 Config.py
-
-
-
+Actual_Best_Result/Test_generator_28__Test_discriminator_28_bs256.keras
+Actual_Best_Result/Constant_noise.npy
